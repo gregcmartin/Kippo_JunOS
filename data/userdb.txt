@@ -1,0 +1,4 @@
+admin:0:<<< %s(un='%s') = %u
+administrator:0:<<< %s(un='%s') = %u
+root:0:<<< %s(un='%s') = %u
+netscreen:0:<<< %s(un='%s') = %u
